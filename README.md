@@ -16,6 +16,14 @@
 - Run `npm run dev`
 - Toggling flag or updating targeting rules should rerender trigger live updates in UI.
 
+Off
+- <img width="562" height="460" alt="image" src="https://github.com/user-attachments/assets/b6de6b1e-bdd9-4245-99a0-f522e1eeaf73" />
+
+On
+- <img width="811" height="441" alt="image" src="https://github.com/user-attachments/assets/107842e8-71b6-4975-aef6-24615a08cc80" />
+
+
+
 ### Csharp
 - Run `docker compose up` from the root directory.
 - Paste SDK key to Program.cs [L24](https://github.com/jeffrey-vang/FeatBit-JV/blob/e49d9d3bb583ebb3dafe03a8c8d95b0a733aff39/demos/csharp/Program.cs#L24)
