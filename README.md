@@ -1,5 +1,7 @@
 ## Running Demos
 
+- Run `docvker compose up`
+- Open browser to `http://localhost:8081`
 - Create Feature Flag `test`
 - Toggle On
 
