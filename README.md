@@ -2,6 +2,9 @@
 
 - Run `docker compose up`
 - Open browser to `http://localhost:8081`
+- Login
+  - Username: test@featbit.com
+  - Password: 123456
 - Create Feature Flag `test`
 - Toggle On
 
@@ -18,4 +21,7 @@
 - Paste SDK key to Program.cs [L24](https://github.com/jeffrey-vang/FeatBit-JV/blob/e49d9d3bb583ebb3dafe03a8c8d95b0a733aff39/demos/csharp/Program.cs#L24)
 - Start program in VS or run `dotnet run CSharpDemo.csproj` from the csharp directory.
 - Toggling flag or updating targeting rules should result in a change in logged messages.
+
+  <img width="552" height="286" alt="image" src="https://github.com/user-attachments/assets/cc84459c-6fd0-42c4-85ad-c556492fb2b0" />
+
 
